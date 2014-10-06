@@ -15,7 +15,7 @@ public class Boletin03 {
         base=dato.nextFloat();
         System.out.println("altura:");
         altura=dato.nextFloat();
-        System.out.println("Area="+(base*altura));
+        System.out.println("Su area es:"+(base*altura));
     }
     
 }
